@@ -236,7 +236,7 @@ Fluxo secundário:
  4. Informa que algum código não está cadastrado no sistema. 
 
 # Figma
-![image](https://user-images.githubusercontent.com/105602423/231632013-9d3de9b5-e8f1-4886-8b42-c40ad5e17799.png)
+![image](https://user-images.githubusercontent.com/105602423/231636413-db8572de-14c4-4607-aec9-2d4871829aa3.png)
 
 
 # UML do Mobile
