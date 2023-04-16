@@ -7,7 +7,7 @@ Grupo Gym Fit
 # Bruno Matricula-
 # Caio Matricula-
 # Eduardo Matricula -01526636
-# Thais Matricula - 01551266
+# Thais Júlia Matricula - 01551266
 
 LEVANTAMENTO DE REQUISITOS DA APLICAÇÃO MOBLIE E BACK-END.
 
