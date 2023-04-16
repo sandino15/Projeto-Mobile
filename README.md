@@ -54,7 +54,7 @@ todas as outras funções do software, pois o usuário é a principal entidade d
   
   ```
   
-    <h4>2. editar usuario </h4>
+    <h4>2 . editar usuario </h4>
 
 
 
@@ -119,6 +119,10 @@ todas as outras funções do software, pois o usuário é a principal entidade d
  
  ![image](https://user-images.githubusercontent.com/105602423/232133876-48bf026e-e30c-4bd6-8e71-0cff9af750a1.png)
  
+  2 telas de informações
+ 
+![image](https://user-images.githubusercontent.com/105602423/232343042-f190847a-b462-4b2d-9321-e80b790ccd4e.png)
+ 
  3 tela principal / tela de treino 
  
  ![image](https://user-images.githubusercontent.com/105602423/232142735-867a4368-5b02-4932-a1b6-9561658625e7.png)
@@ -135,11 +139,83 @@ todas as outras funções do software, pois o usuário é a principal entidade d
 </div>
 
 
-# JSON
+# CONTRATO JSON
 
-<div>
-<img src="https://uploaddeimagens.com.br/images/004/424/984/full/01.PNG?1681168348"  width="300px"/>
-  <img src="https://uploaddeimagens.com.br/images/004/424/989/full/02.PNG?1681168593"  width="300px"/>
-  <img src="https://uploaddeimagens.com.br/images/004/424/990/full/03.PNG?1681168622"  width="300px"/>
-  <img src="https://uploaddeimagens.com.br/images/004/424/992/full/04.PNG?1681168669"  width="300px"/>
-</div>
+Post/Login
+
+esse endpoint é responsável por fazer o Login do usuario   
+e receberá como parâmetro email e senha.
+
+Post
+
+```
+{ "Id:1
+  "Email:brunosantos@gmail.com"
+  "Password:"26342523"
+}  
+
+
+Retorna:
+Status cod :404
+
+
+{"toke:" usuario Não encontrato" }
+
+```
+
+
+Post/User
+
+esse endpoint é responsável por fazer cadastro do usuario <br/>
+e recebera como parâmetro nome, email e senha.
+
+post
+
+```
+
+
+{ "Id:1
+  "name:"bruno santos "
+  "Email:brunosantos@gmail.com
+  "Password:"26342523"
+}  
+
+Retorna:
+
+
+{ "toke:"Email foi utilizado " }
+
+
+Retorna:
+
+
+{"toke:"Erro no email e na senha "}
+
+```
+
+
+Get/ficha de treino
+
+esse enpoint é responsável pela ficha de treino do usuario <br/>
+e recebera como parâmetro: genero ,  objetivo do usuario exemplo<br/>
+se e  ganho de massa ou emagrecer, peso do usuario ,<br/>
+ e altura e 
+ 
+ 
+
+ Get 
+
+ ```
+ { "Id:"1"
+   "genero:"masculino"
+   "Objetivo do treino:"emagrecer"
+   "altura:"1,75"
+   "peso:"82 kg " 
+   "
+  }
+  
+
+```
+
+
+
