@@ -6,8 +6,8 @@ Grupo Gym Fit
 # Sandino Lourenço Matricula- 01544309
 # Bruno Matricula-
 # Caio Matricula-
-# Eduardo Matricula-          matricula -01526636
-# Thais Matricula-
+# Eduardo Matricula -01526636
+# Thais Matricula - 01551266
 
 LEVANTAMENTO DE REQUISITOS DA APLICAÇÃO MOBLIE E BACK-END.
 
