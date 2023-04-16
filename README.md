@@ -40,6 +40,65 @@ todas as outras funções do software, pois o usuário é a principal entidade d
       
 
    ```
+   
+   <p>fluxo segundario</p>
+  
+  ```
+  
+    1. Informação obrigatoria faltando ou dados preechido de forma
+       incorreta.
+    2. No passo o sistema detecta que as informações não foram fornecidas
+       de maneira correta e procede da seguinte maneira:o sistema avisa
+       que alguma informação obrigatoria esta faltando
+        
+  
+  ```
+  
+    <h4>2. editar usuario </h4>
+
+
+
+
+<p>Fluxo principal:</p> 
+
+
+```
+
+      1. usuário seleciona a opção de editar a ficha de treinamento
+      2.  usuário seleciona a opção de editar os dias de treinamento
+      3. usuário seleciona a opção de editar a senha e o email
+      4. O sistema valida as informação fornecidas 
+      5. O sistema efetiva a modificação mo cadastro do usuario
+      
+```
+<p>Fluxo secundário:</p> 
+
+ ```
+ 
+      6. senha e nome do usuario invalido o sistema verifica que não
+         tem nemhum registo do nome do usuario e da senha cadastrada 
+         procede de seguinte maneira:
+      7. Informa que não consta nenhum nome ou senha informado.
+      
+      8. Informação fornecida de maneira incorreta o sistema 
+         identifica que algumas informação foi preechida de maneira 
+         incorreta e procede da seguinte maneira:informação  foi 
+         preenchida de maneira incorreta.
+      
+      
+```	 
+<h4>3.perfil do  usuário </h4>
+
+ <p>Fluxo principal:</p>
+
+```
+ 
+      1 . O usuario vai ter opcão de consultar a ficha de treinamento
+      2.  usuário vai ter como acompanhar suas estaticas de treino
+      3.   usuário  vai poder acompanhar sua evolução
+
+	   
+```
 
 
  
