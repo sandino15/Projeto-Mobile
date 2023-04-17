@@ -101,7 +101,7 @@ todas as outras funções do software, pois o usuário é a principal entidade d
 ```
 
 
-  <h4>3. treino do usuario **</h4>
+  <h4>4. treino do usuario **</h4>
    
    
   <p>Fluxo principal:</p>
@@ -132,7 +132,7 @@ todas as outras funções do software, pois o usuário é a principal entidade d
 	
  ```
  
-   <h4>4.Login do  usuario **</h4>
+   <h4>5.Login do  usuario **</h4>
 
   <p>Fluxo principal:</p>
 
