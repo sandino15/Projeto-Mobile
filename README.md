@@ -101,9 +101,39 @@ todas as outras funções do software, pois o usuário é a principal entidade d
 ```
 
 
- 
+  <h4>5. treino do usuario **</h4>
+   
+   
+  <p>Fluxo principal:</p>
+  
+  ```
 
-      
+  
+     
+     
+     
+      1 . O usuário vai ter opcão de selecionar qual tipo de exercio
+          exemplo: usuário escolher a parte do corpo como abdome e
+      3.  permas e o sistema vai montar uma ficha de treino com detalhes
+          vídeos sobre o treino
+
+
+  ```
+  
+  <p>Fluxo secundário:</p> 
+  
+  
+   ```
+  
+  
+      1. Se o usuário não desejar mais aquele tipo de treino selecionado, 
+        ele pode clicar na funcionalidade de voltar para a tela principal
+	
+	
+   
+   
+
+   
 
 
   
