@@ -54,7 +54,7 @@ todas as outras funções do software, pois o usuário é a principal entidade d
   
   ```
   
-    <h4>2 . editar usuario </h4>
+    <h4 > 2. editar usuario </h4>
 
 
 
@@ -87,7 +87,7 @@ todas as outras funções do software, pois o usuário é a principal entidade d
       
       
 ```	 
-<h4>2.perfil do  usuário </h4>
+<h4>3.perfil do  usuário </h4>
 
  <p>Fluxo principal:</p>
 
@@ -131,12 +131,34 @@ todas as outras funções do software, pois o usuário é a principal entidade d
 	
 	
  ```
-   
+ 
+   <h4>4.Login do  usuario **</h4>
 
-   
-
+  <p>Fluxo principal:</p>
 
   
+  
+      1 . permite que usuario acesse a autenticação de sua crendenciais
+          do email do usuario e senha adquiridos atraves de um cadastro.
+	  
+	  
+  
+
+
+   <p>Fluxo secundário:</p> 
+
+
+   ```
+   
+	  
+      2. senha e nome do usuario validoo sistema verifica e manda 
+         informações para outra tela
+      3. senha e nome do usuario valido o sistema verifica que não
+          tem nenhum registro do usuario e da senha cadastrada.
+      
+  ```
+   
+
 
 
 
