@@ -203,14 +203,15 @@ todas as outras funções do software, pois o usuário é a principal entidade d
  
 
 # UML do Mobile
+![UML](https://user-images.githubusercontent.com/115112186/232347411-1af69264-70a6-478e-815e-6a8699e1ddaa.jpeg)
 <div align="center">
-<img src="https://uploaddeimagens.com.br/images/004/422/987/original/Kotlin2.PNG?1681066648" width="500px"/>
+<img src="" width="500px"/>
 </div>
-
 # UML do BackEnd
 
+![UML](https://user-images.githubusercontent.com/115112186/232347411-1af69264-70a6-478e-815e-6a8699e1ddaa.jpeg)
 <div align="center">
-<img src=/>
+<img src="" width="500px"/>
 </div>
 
 
