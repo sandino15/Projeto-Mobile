@@ -157,6 +157,23 @@ todas as outras funções do software, pois o usuário é a principal entidade d
           tem nenhum registro do usuario e da senha cadastrada.
       
   ```
+  
+   
+ <h4> 6. perfil do usuario **</h4>
+ 
+ 
+ <p>Fluxo principal:</p>
+ 
+ ```
+ 
+
+
+    1. O  usuário vai ter a opção de consultar a ficha de treinamento
+    2. O  usuário  vai ter como acompanhar suas estatísticas de treino 
+    3. O usuário vai poder acompanhar  sua evolução
+
+      
+ ```     
    
 
 
@@ -178,6 +195,12 @@ todas as outras funções do software, pois o usuário é a principal entidade d
  3 tela principal / tela de treino 
  
  ![image](https://user-images.githubusercontent.com/105602423/232142735-867a4368-5b02-4932-a1b6-9561658625e7.png)
+ 
+  4 telas detalhe do treino
+ 
+ ![image](https://user-images.githubusercontent.com/105602423/232356631-07fbe29e-51be-42fd-bc7e-b4ee7ec9eeb8.png)
+ 
+ 
 
 # UML do Mobile
 <div align="center">
